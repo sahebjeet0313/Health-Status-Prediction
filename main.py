@@ -1,4 +1,4 @@
-# This file is for training and saving model files
+# This file is for training and saving model files...
 
 # Import Dependencies
 import yaml
